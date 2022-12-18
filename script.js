@@ -1,5 +1,6 @@
 console.log('eh')
-let key = "c05ecbb86b2a46f5ea39d388bdcd41a0";
+// Enter Your api key by login from Open Weather website https://openweathermap.org/api
+let key = "";
 
 let search = document.querySelector('#search');
 let button = document.querySelector('#button');
